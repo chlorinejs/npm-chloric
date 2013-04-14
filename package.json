@@ -1,6 +1,7 @@
 {
   "name": "chloric",
   "description": "ChlorineJS compiler",
+  "homepage": "https://github.com/chlorinejs/chlorine/wiki",
   "version": "0.1.9",
   "bin": {
     "chloric": "./bin/chloric",
@@ -11,5 +12,8 @@
   "repository" : {
     "type" : "git",
     "url" : "http://github.com/chlorinejs/chloric.git"
+  },
+  "bug": {
+    "url" : "http://github.com/chlorinejs/chlorine/issues"
   }
 }
