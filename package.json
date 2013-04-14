@@ -1,0 +1,15 @@
+{
+  "name": "chloric",
+  "description": "ChlorineJS compiler",
+  "version": "0.1.9",
+  "bin": {
+    "chloric": "./bin/chloric",
+    "cl2c":    "./bin/chloric",
+    "cl2d":    "./bin/cl2d"
+  },
+  "license" : "EPL",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/chlorinejs/chloric.git"
+  }
+}
