@@ -2,7 +2,7 @@
   "name": "chloric",
   "description": "ChlorineJS compiler",
   "homepage": "https://github.com/chlorinejs/chlorine/wiki",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "bin": {
     "chloric": "./bin/chloric",
     "cl2c":    "./bin/chloric",
